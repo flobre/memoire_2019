@@ -16,4 +16,4 @@ Matériel, codes, essais réalisés pour la rédaction du mémoire de Master 2
 
 ### Données
 - *phrases.csv*: Questions au chatbot GRINGO
-- *dataset.csv*: critiques de films classés pos et neg
+- *dataset.csv*: critiques de films classés pos et neg (fig 1.5)
