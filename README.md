@@ -3,6 +3,9 @@ Matériel, codes, essais réalisés pour la rédaction du mémoire de Master 2
 
 ## Table des matières
 
+### Certificat de conformité anti-plagiat
+- certificat.pdf
+
 ### Matrices
 - *fig-1* Matrice de dispersion des prolongements lexicaux. dim = 10
 - *fig-2* Matrice de dispersion des prolongements lexicaux. dim = 10
